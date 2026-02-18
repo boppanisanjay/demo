@@ -18,5 +18,6 @@ let tpe1:[string,number][] = [["john",101],["robert",102],["pat",103]]
 let tpe =tpe1[0];
 console.log(tpe1)
 console.log(tpe)
+console.log(tpe)
 
 
